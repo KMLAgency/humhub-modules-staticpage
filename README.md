@@ -9,7 +9,7 @@ This module allows developers to easily create custom pages for the global view 
 Links to pages are injected into the Top Menu _(second top bar on the original theme)_.
 
 It is not made to 'squash' the [CustomPage Module](https://github.com/humhub/humhub-modules-custom-pages)...  
-It is a "backend" module.. An alternative for Developer, (as you need to work directly on files) !!
+It is a 'backend' module.. An alternative for Developer, (as you need to work directly on files) !!
 
 ## Install: 
 Clone as 'staticpage' in your 'humhub/protected/modules/' folder.
