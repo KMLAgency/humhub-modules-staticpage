@@ -2,7 +2,7 @@
 __Version:__ 1.0  
 __Author:__ Loky  
 __Author website:__ [Stellaris.Agency](http://stellaris.agency)  
-__Module website:__ <https://github.com/StellarisAgency/humhub-modules-staticpage/>
+__Module website:__ [GitHub Repository](https://github.com/StellarisAgency/humhub-modules-staticpage)
 
 ## Description:
 This module allows developers to easily create custom pages for the global view without using the database.
