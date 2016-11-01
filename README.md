@@ -19,4 +19,4 @@ You just have to create a new php page in the 'views/page' folder and add a link
 If you want to use special css and js code, put your files in the 'assets' folder and update the 'Assets.php' !
 In that case, if you change your 'assets files', you will have to clear the cache to see any change. _(go to 'Admin/Settings/Advanced' to flush the cache)_.
 
-To write your page it will be more easy to put your special code 'inline' directly into your php page and when it's ready, creating your files into the 'assets' folder.
+To write your page it will be more easy to put your 'special' _(your css for example)_ code 'inline' directly into your php page and when it's ready, creating your files into the 'assets' folder.
