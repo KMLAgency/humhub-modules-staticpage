@@ -1,0 +1,7 @@
+{
+    "id": "staticpage",
+    "name": "Static Page",
+    "description": "Create 'global' static pages (in folder, database not used).",
+    "keywords": ["custom", "static", "page", "about", "faq"],
+    "version": "1.0"
+}
