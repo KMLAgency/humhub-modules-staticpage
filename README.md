@@ -5,9 +5,11 @@ __Author website:__ [Stellaris.Agency](http://stellaris.agency)
 __Module website:__ [GitHub Repository](https://github.com/StellarisAgency/humhub-modules-staticpage)
 
 ## Description:
-This module allows developers to easily create custom pages for the global view without using the database.
-
+This module allows developers to easily create custom pages for the global view without using the database.  
 Links to pages are injected into the Top Menu _(second top bar on the original theme)_.
+
+It is not made to 'squash' the [CustomPage Module](https://github.com/humhub/humhub-modules-custom-pages)...  
+It is a "backend" module.. An alternative for Developer, (as you need to work directly on files) !!
 
 ## Install: 
 Clone as 'staticpage' in your 'humhub/protected/modules/' folder.
