@@ -32,7 +32,8 @@ class Module extends \humhub\components\Module
      */
     public static function onTopMenuInit($event)
     {
-		$event->sender->addItem(array(
+		// The ID of each items have to be the name of the php page!
+	    	$event->sender->addItem(array(
 			'label' => 'About',
 			'url' => Url::to(['/staticpage/page/view', 'id' => 'about']),
 			'icon' => '<i class="fa fa-info-circle"></i>',
