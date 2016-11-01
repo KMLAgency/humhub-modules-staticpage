@@ -1,3 +1,6 @@
+# Static Page Module
+###V:1.0
+
 ## Description:
 This module allows developers to easily create custom pages for the global view without using the database.
 
